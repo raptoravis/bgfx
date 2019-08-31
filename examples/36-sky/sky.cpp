@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright 2017 Stanislav Pidhorskyi. All rights reserved.
  * License: https://github.com/bkaradzic/bgfx#license-bsd-2-clause
  */
